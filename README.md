@@ -26,7 +26,7 @@ http://www.avorion.net/forum/index.php/topic,3799.0.html
 
 ## Downloads
 ___
-[DirtyCargoExtender v1.0.0](https://github.com/dirtyredz/DirtyCargoExtender/releases/download/1.0.0/DirtyCargoExtender v1.0.0.zip)
+https://github.com/dirtyredz/DirtyCargoExtender/releases/download/1.0.0/DirtyCargoExtender v1.0.0.zip
 
 ## Changelog
 ___

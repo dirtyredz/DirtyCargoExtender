@@ -1,6 +1,6 @@
 # DirtyCargoExtender
 
-![alt text](http://imgur.com/ziHte5v)
+![alt text](http://imgur.com/ziHte5v.png)
 ___
 
 Dirty Cargo Extender will exame every station inside a sector,

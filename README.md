@@ -29,7 +29,7 @@ ___
 
 ## MY OTHER MODS
 ___
-__DSM_
+__DSM__
 -A project dedicated to server deployment, management, and exposing features to a web interface.
 http://www.avorion.net/forum/index.php/topic,3507.0.html
 
